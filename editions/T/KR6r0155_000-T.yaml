@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6r0155/t/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 代宗朝贈司空大辨正廣智三藏和上表制集
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T52/T52n2120.xml
+    old_id: T52n2120
+hash: sha256:50d1586170bf38d3f87abde802e864f72614a1015f8fd297b0d8f23e0f6f5be5

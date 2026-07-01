@@ -1,0 +1,1472 @@
+canonical_identifier: bkk:krp/KR6r0155/v1
+canonical_location: https://kanripo.org/bkk/KR6r0155/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 代宗朝贈司空大辨正廣智三藏和上表制集
+  identifiers:
+    alt_id:
+    - T52n2120
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T52/T52n2120.xml
+    old_id: T52n2120
+  edition:
+    short: bkk
+editions:
+- short: 甲
+  label: 甲
+  source_xml_id: wit1
+- short: 乙
+  label: 乙
+  source_xml_id: wit2
+- short: 丙
+  label: 丙
+  source_xml_id: wit3
+- short: 大
+  label: 大
+  source_xml_id: wit.orig
+- short: 宮
+  label: 宮
+  source_xml_id: wit5
+- short: 原
+  label: 原
+  source_xml_id: wit6
+- short: ？
+  label: ？
+  source_xml_id: wit7
+- short: T
+assets:
+  parts:
+  - {seq: 0, filename: KR6r0155_000.yaml, hash: 'sha256:50d1586170bf38d3f87abde802e864f72614a1015f8fd297b0d8f23e0f6f5be5'}
+  - {seq: 1, filename: KR6r0155_001.yaml, hash: 'sha256:e98d6efcb7e1924ffdc64dd6812eba136294808e7fba4a3f7aa112a96635723f'}
+  - {seq: 2, filename: KR6r0155_002.yaml, hash: 'sha256:6ee030b38da33bfb170fa1d69abf8d110af0e6a9e33602112260523443695f36'}
+  - {seq: 3, filename: KR6r0155_003.yaml, hash: 'sha256:8608954716c6ae5e534b98eccac054f91efb47d92906eb9e78d36a50e736a495'}
+  - {seq: 4, filename: KR6r0155_004.yaml, hash: 'sha256:112dbd3a3333312ddb6a33aa4dc53eb255d718464910c48bcce31b4a88a0e6d0'}
+  - {seq: 5, filename: KR6r0155_005.yaml, hash: 'sha256:665cd06c9b2246c4d6ffa203d426b600f559b9f845190c99ba6a1180f103ad27'}
+  - {seq: 6, filename: KR6r0155_006.yaml, hash: 'sha256:21a76f587397ed38db38914c606eb7598266ccf37f5e2c007f088cde9df81c4a'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR6r0155_001.markers.yaml, hash: 'sha256:337f9e83ddd3ef1af3b53a1b420b415d57d2d1473938aaa1baa984281cb6cd32'}
+  - {seq: 2, role: markers, filename: assets/KR6r0155_002.markers.yaml, hash: 'sha256:984665a4cf0a072b5e4508c48014be7ae94990db2ee43d7360efece5cac6cfd7'}
+  - {seq: 3, role: markers, filename: assets/KR6r0155_003.markers.yaml, hash: 'sha256:53b7a195bbebb6e4d4dabed0035f5c8aef6280aaf5ada3554486a641c7b303ed'}
+  - {seq: 4, role: markers, filename: assets/KR6r0155_004.markers.yaml, hash: 'sha256:6afd20313bf4cf807ca6446bf93e522a3e6628a85688e45ba52595fd1c38f4ec'}
+  - {seq: 5, role: markers, filename: assets/KR6r0155_005.markers.yaml, hash: 'sha256:b9e62334395deca98a47ef4a955f0f0ddf6ec71702bb6ffdb640eca837199862'}
+  - {seq: 6, role: markers, filename: assets/KR6r0155_006.markers.yaml, hash: 'sha256:388ce30340c92a82dc59420777481b59e3f47181957e6d71add1fa7e4c43913e'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6r0155_T_001-juan-start
+    span:
+    - body
+    - 0
+    - 6761
+  label: '代宗朝贈司空大辨正廣智三藏
+
+    和上表制集卷第一'
+  type: juan
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0155_T_001-mulu-1
+    span:
+    - body
+    - 13
+    - 13
+  label: 序
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0155_T_001-mulu-2
+    span:
+    - body
+    - 449
+    - 449
+  label: 賀收復西京表
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0155_T_001-mulu-3
+    span:
+    - body
+    - 757
+    - 757
+  label: 賀收復東京表
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0155_T_001-mulu-4
+    span:
+    - body
+    - 990
+    - 990
+  label: 賀上皇還京表
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0155_T_001-mulu-5
+    span:
+    - body
+    - 1244
+    - 1244
+  label: 謝恩賜香陳情表
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0155_T_001-mulu-6
+    span:
+    - body
+    - 1698
+    - 1698
+  label: 請搜訪天下梵夾修葺翻譯制書
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0155_T_001-mulu-7
+    span:
+    - body
+    - 1950
+    - 1950
+  label: 制許搜訪梵夾祠部告牒
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0155_T_001-mulu-8
+    span:
+    - body
+    - 2320
+    - 2320
+  label: 賀𠕋皇后張氏表
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0155_T_001-mulu-9
+    span:
+    - body
+    - 2534
+    - 2534
+  label: 制許翻譯經論祠部告牒
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0155_T_001-mulu-10
+    span:
+    - body
+    - 2910
+    - 2910
+  label: 進虎魄像并梵書隨求真言狀
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0155_T_001-mulu-11
+    span:
+    - body
+    - 3184
+    - 3184
+  label: 請大興善寺置灌頂道場墨狀勅
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0155_T_001-mulu-12
+    span:
+    - body
+    - 3374
+    - 3374
+  label: 智炬寺修功德勅天下兵馬元師牒
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0155_T_001-mulu-13
+    span:
+    - body
+    - 3487
+    - 3487
+  label: 進白檀摩利支像并梵書大佛頂真言狀
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0155_T_001-mulu-14
+    span:
+    - body
+    - 3750
+    - 3750
+  label: 請每戴置灌頂道場墨勅
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0155_T_001-mulu-15
+    span:
+    - body
+    - 3969
+    - 3969
+  label: 請大興善寺大德四十九員制書
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0155_T_001-mulu-16
+    span:
+    - body
+    - 4587
+    - 4587
+  label: 請降誕日度僧七人祠部勅牒
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0155_T_001-mulu-17
+    span:
+    - body
+    - 4969
+    - 4969
+  label: 請依梵夾再譯仁王般若經制書
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0155_T_001-mulu-18
+    span:
+    - body
+    - 5320
+    - 5320
+  label: 杜冕中丞請迴封入翻譯經院制書
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0155_T_001-mulu-19
+    span:
+    - body
+    - 5737
+    - 5737
+  label: 謝御製新仁王經序并賀百座見慶雲表
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0155_T_001-mulu-20
+    span:
+    - body
+    - 5983
+    - 5983
+  label: 贈故金剛三藏開府兼贈號制書
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0155_T_001-mulu-21
+    span:
+    - body
+    - 6353
+    - 6353
+  label: 拜不空三藏鴻卿兼賜號制書
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6r0155_T_002-juan-start
+    span:
+    - body
+    - 0
+    - 6425
+  label: '代宗朝贈司空大辨正廣智三藏
+
+    和上表制集卷第二'
+  type: juan
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6r0155_T_002-mulu-1
+    span:
+    - body
+    - 386
+    - 386
+  label: 謝贈故金剛三藏官號等表
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6r0155_T_002-mulu-2
+    span:
+    - body
+    - 779
+    - 779
+  label: 請捨衣鉢助僧道環修金閣寺制書
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6r0155_T_002-mulu-3
+    span:
+    - body
+    - 1277
+    - 1277
+  label: 請捨衣鉢同修聖玉華寺制書
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6r0155_T_002-mulu-4
+    span:
+    - body
+    - 1459
+    - 1459
+  label: 賀平周智光表
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6r0155_T_002-mulu-5
+    span:
+    - body
+    - 1660
+    - 1660
+  label: 請抽化度寺萬菩薩堂三長月念誦僧制
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6r0155_T_002-mulu-6
+    span:
+    - body
+    - 2069
+    - 2069
+  label: 請修臺山金閣玉華寺等巧匠放免追呼制
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6r0155_T_002-mulu-7
+    span:
+    - body
+    - 2364
+    - 2364
+  label: 請臺山五寺度人抽僧制
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6r0155_T_002-mulu-8
+    span:
+    - body
+    - 2718
+    - 2718
+  label: 請子翷法師化度寺開講制
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6r0155_T_002-mulu-9
+    span:
+    - body
+    - 2811
+    - 2811
+  label: 請降誕日度僧五人制
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6r0155_T_002-mulu-10
+    span:
+    - body
+    - 3185
+    - 3185
+  label: 請度掃灑先師龍門塔所僧制
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6r0155_T_002-mulu-11
+    span:
+    - body
+    - 3656
+    - 3656
+  label: 請御題先師塔額并設齋度人表
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6r0155_T_002-mulu-12
+    span:
+    - body
+    - 3938
+    - 3938
+  label: 謝　恩命為先師設遠忌齋并賜茶表
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6r0155_T_002-mulu-13
+    span:
+    - body
+    - 4178
+    - 4178
+  label: 請降誕日度三僧制
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6r0155_T_002-mulu-14
+    span:
+    - body
+    - 4393
+    - 4393
+  label: 請光天寺東塔院充五臺山往來停止院制
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6r0155_T_002-mulu-15
+    span:
+    - body
+    - 4572
+    - 4572
+  label: 天下寺食堂中置文殊上座制
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6r0155_T_002-mulu-16
+    span:
+    - body
+    - 4872
+    - 4872
+  label: 大曆五年七月五日於太原設萬人齋制
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6r0155_T_002-mulu-17
+    span:
+    - body
+    - 4991
+    - 4991
+  label: 同年七月十三日與三藏手詔
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6r0155_T_002-mulu-18
+    span:
+    - body
+    - 5063
+    - 5063
+  label: 請太原府至德寺置文殊院制
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6r0155_T_002-mulu-19
+    span:
+    - body
+    - 5185
+    - 5185
+  label: 同年九月四日又賜手詔
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6r0155_T_002-mulu-20
+    span:
+    - body
+    - 5245
+    - 5245
+  label: 請太原號令堂安像淨土院抽僧制
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6r0155_T_002-mulu-21
+    span:
+    - body
+    - 5574
+    - 5574
+  label: 請惠林法師於保壽寺講表
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6r0155_T_002-mulu-22
+    span:
+    - body
+    - 5754
+    - 5754
+  label: 謝恩賜大興善寺施戒方等并糧料表
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6r0155_T_002-mulu-23
+    span:
+    - body
+    - 6013
+    - 6013
+  label: 請廣智三藏登壇祠部告牒
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6r0155_T_002-mulu-24
+    span:
+    - body
+    - 6205
+    - 6205
+  label: 謝　恩賜乳牛五頭并犢表
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6r0155_T_003-juan-start
+    span:
+    - body
+    - 0
+    - 7449
+  label: '代宗朝贈司空大辨正廣智三藏
+
+    和上表制集卷第三'
+  type: juan
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6r0155_T_003-mulu-1
+    span:
+    - body
+    - 298
+    - 298
+  label: 三朝所翻經論請入目錄流行表
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6r0155_T_003-mulu-2
+    span:
+    - body
+    - 1632
+    - 1632
+  label: 謝恩許新翻經論入目錄流行表
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6r0155_T_003-mulu-3
+    span:
+    - body
+    - 1947
+    - 1947
+  label: 勅賜汾州西河縣西苑房佛堂寺額制
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6r0155_T_003-mulu-4
+    span:
+    - body
+    - 2175
+    - 2175
+  label: 恩命令祈甘雨表
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6r0155_T_003-mulu-5
+    span:
+    - body
+    - 2430
+    - 2430
+  label: 東都先師塔及石戒壇院請抽大德制
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6r0155_T_003-mulu-6
+    span:
+    - body
+    - 2780
+    - 2780
+  label: 請超悟法師於化度寺修六菩薩制
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6r0155_T_003-mulu-7
+    span:
+    - body
+    - 2984
+    - 2984
+  label: 勅置天下文殊師利菩薩院制
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6r0155_T_003-mulu-8
+    span:
+    - body
+    - 3123
+    - 3123
+  label: 謝勅置天下文殊師利菩薩院表
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6r0155_T_003-mulu-9
+    span:
+    - body
+    - 3508
+    - 3508
+  label: 請京城兩街各置一寺講制
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6r0155_T_003-mulu-10
+    span:
+    - body
+    - 4005
+    - 4005
+  label: 貶興善寺寺主圓敬歸河南思遠寺制
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6r0155_T_003-mulu-11
+    span:
+    - body
+    - 4247
+    - 4247
+  label: 進文殊師利佛剎功德經狀
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6r0155_T_003-mulu-12
+    span:
+    - body
+    - 4518
+    - 4518
+  label: 請補前都維那道遇充寺主制
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6r0155_T_003-mulu-13
+    span:
+    - body
+    - 4666
+    - 4666
+  label: 恩賜瓊華真人一切經一藏謝表
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6r0155_T_003-mulu-14
+    span:
+    - body
+    - 4954
+    - 4954
+  label: 恩賜文殊閣上梁赤錢𩟘餅等物謝表
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6r0155_T_003-mulu-15
+    span:
+    - body
+    - 5263
+    - 5263
+  label: 恩命祈雨三藏和上賀雨表
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6r0155_T_003-mulu-16
+    span:
+    - body
+    - 5458
+    - 5458
+  label: 瓊華真人真如金剛薨奉慰表
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6r0155_T_003-mulu-17
+    span:
+    - body
+    - 5760
+    - 5760
+  label: 五月五日　恩賜白素謝表
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6r0155_T_003-mulu-18
+    span:
+    - body
+    - 5906
+    - 5906
+  label: 三藏和上遺書
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6r0155_T_004-juan-start
+    span:
+    - body
+    - 0
+    - 6200
+  label: '代宗朝贈司空大辨正廣智三藏
+
+    和上表制集卷第四'
+  type: juan
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6r0155_T_004-mulu-1
+    span:
+    - body
+    - 249
+    - 249
+  label: 請於興善寺當院兩道場各置持誦僧制
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6r0155_T_004-mulu-2
+    span:
+    - body
+    - 553
+    - 553
+  label: 加開府儀同三司及封肅國公制告牒
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6r0155_T_004-mulu-3
+    span:
+    - body
+    - 1021
+    - 1021
+  label: 三藏和上臨終陳情表
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6r0155_T_004-mulu-4
+    span:
+    - body
+    - 1456
+    - 1456
+  label: 和上初薨賜賻贈物制
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6r0155_T_004-mulu-5
+    span:
+    - body
+    - 1657
+    - 1657
+  label: 勅諸孝子各守法教制
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6r0155_T_004-mulu-6
+    span:
+    - body
+    - 1728
+    - 1728
+  label: 勅諸孝子着服喪儀制
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6r0155_T_004-mulu-7
+    span:
+    - body
+    - 1788
+    - 1788
+  label: 賜孝子米麵擇地等手詔
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6r0155_T_004-mulu-8
+    span:
+    - body
+    - 1859
+    - 1859
+  label: 和上寫真影讚并序
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6r0155_T_004-mulu-9
+    span:
+    - body
+    - 2433
+    - 2433
+  label: 恩賜起造靈塔絹制
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6r0155_T_004-mulu-10
+    span:
+    - body
+    - 2490
+    - 2490
+  label: 謝恩賜造塔絹表
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6r0155_T_004-mulu-11
+    span:
+    - body
+    - 2673
+    - 2673
+  label: 鄧國夫人張氏祭文
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6r0155_T_004-mulu-12
+    span:
+    - body
+    - 2959
+    - 2959
+  label: 弟子苾芻慧勝祭文
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6r0155_T_004-mulu-13
+    span:
+    - body
+    - 3133
+    - 3133
+  label: 五日李相公祭文
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6r0155_T_004-mulu-14
+    span:
+    - body
+    - 3348
+    - 3348
+  label: 贈司空并諡號制
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6r0155_T_004-mulu-15
+    span:
+    - body
+    - 3721
+    - 3721
+  label: 大廣智三藏行碑
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6r0155_T_004-mulu-16
+    span:
+    - body
+    - 5469
+    - 5469
+  label: 大廣智不空三藏和上影贊
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6r0155_T_004-mulu-17
+    span:
+    - body
+    - 5603
+    - 5603
+  label: 六日勅遣中使祭文
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6r0155_T_004-mulu-18
+    span:
+    - body
+    - 5758
+    - 5758
+  label: 六日元相公祭文
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6r0155_T_004-mulu-19
+    span:
+    - body
+    - 5996
+    - 5996
+  label: 謝追贈司空并諡號表
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6r0155_T_005-juan-start
+    span:
+    - body
+    - 0
+    - 6536
+  label: '代宗朝贈司空大辨正廣智三藏
+
+    和上表制集卷第五'
+  type: juan
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6r0155_T_005-mulu-1
+    span:
+    - body
+    - 354
+    - 354
+  label: 召念誦僧制
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6r0155_T_005-mulu-2
+    span:
+    - body
+    - 410
+    - 410
+  label: 勅慧朗教授後學制
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6r0155_T_005-mulu-3
+    span:
+    - body
+    - 462
+    - 462
+  label: 勅惠勝依所請住制
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6r0155_T_005-mulu-4
+    span:
+    - body
+    - 551
+    - 551
+  label: 停修舊塔地制
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6r0155_T_005-mulu-5
+    span:
+    - body
+    - 605
+    - 605
+  label: 勅於當院起靈塔制
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6r0155_T_005-mulu-6
+    span:
+    - body
+    - 746
+    - 746
+  label: 沙門惠朗謝賜紫衣表
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6r0155_T_005-mulu-7
+    span:
+    - body
+    - 908
+    - 908
+  label: 恩賜文殊閣額制
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6r0155_T_005-mulu-8
+    span:
+    - body
+    - 957
+    - 957
+  label: 謝賜額表
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6r0155_T_005-mulu-9
+    span:
+    - body
+    - 1169
+    - 1169
+  label: 進造大聖文殊鎮國閣狀
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6r0155_T_005-mulu-10
+    span:
+    - body
+    - 2194
+    - 2194
+  label: 謝恩賜小祥齋供表
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6r0155_T_005-mulu-11
+    span:
+    - body
+    - 2400
+    - 2400
+  label: 弟子惠果謝賜錦綵表
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6r0155_T_005-mulu-12
+    span:
+    - body
+    - 2620
+    - 2620
+  label: 勅天下僧尼誦尊勝相真言制
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6r0155_T_005-mulu-13
+    span:
+    - body
+    - 2704
+    - 2704
+  label: 謝誦持尊勝真言表
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6r0155_T_005-mulu-14
+    span:
+    - body
+    - 2949
+    - 2949
+  label: 請為先師立碑表
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6r0155_T_005-mulu-15
+    span:
+    - body
+    - 3171
+    - 3171
+  label: 賀平李靈曜表
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6r0155_T_005-mulu-16
+    span:
+    - body
+    - 3331
+    - 3331
+  label: 故功德使李公挽歌詞
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6r0155_T_005-mulu-17
+    span:
+    - body
+    - 3441
+    - 3441
+  label: 請續置功德使表
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6r0155_T_005-mulu-18
+    span:
+    - body
+    - 3670
+    - 3670
+  label: 謝賜齋儭茶表
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6r0155_T_005-mulu-19
+    span:
+    - body
+    - 3809
+    - 3809
+  label: 賀春雪表
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6r0155_T_005-mulu-20
+    span:
+    - body
+    - 4017
+    - 4017
+  label: 賀度韓王女出家表
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6r0155_T_005-mulu-21
+    span:
+    - body
+    - 4183
+    - 4183
+  label: 青龍寺僧曇貞賀祈雨賜物表
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6r0155_T_005-mulu-22
+    span:
+    - body
+    - 4378
+    - 4378
+  label: 沙門飛錫賀晴表
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6r0155_T_005-mulu-23
+    span:
+    - body
+    - 4621
+    - 4621
+  label: 覺超賀湫所祈雨表
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6r0155_T_005-mulu-24
+    span:
+    - body
+    - 4995
+    - 4995
+  label: 請辭內道場陳情表
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6r0155_T_005-mulu-25
+    span:
+    - body
+    - 5237
+    - 5237
+  label: 賀祈雨表
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6r0155_T_005-mulu-26
+    span:
+    - body
+    - 5436
+    - 5436
+  label: 賀破吐蕃表
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6r0155_T_005-mulu-27
+    span:
+    - body
+    - 5633
+    - 5633
+  label: 僧惠超賀玉女潭祈雨表
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6r0155_T_005-mulu-28
+    span:
+    - body
+    - 5865
+    - 5865
+  label: 僧曇貞賀祈雨表
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6r0155_T_005-mulu-29
+    span:
+    - body
+    - 6077
+    - 6077
+  label: 靈應臺道僧道潤賀平河南表
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6r0155_T_005-mulu-30
+    span:
+    - body
+    - 6290
+    - 6290
+  label: 監使憲誠進怖鴿毛表
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6r0155_T_006-juan-start
+    span:
+    - body
+    - 0
+    - 6001
+  label: '代宗朝贈司空大辨正廣智三藏
+
+    和上表制集卷第六'
+  type: juan
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6r0155_T_006-mulu-1
+    span:
+    - body
+    - 354
+    - 354
+  label: 監使李憲誠進金字法華經表
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6r0155_T_006-mulu-2
+    span:
+    - body
+    - 580
+    - 580
+  label: 賀平李靈曜表
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6r0155_T_006-mulu-3
+    span:
+    - body
+    - 726
+    - 726
+  label: 僧元晈請度僧表
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6r0155_T_006-mulu-4
+    span:
+    - body
+    - 951
+    - 951
+  label: 僧常清謝贈物表
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6r0155_T_006-mulu-5
+    span:
+    - body
+    - 1085
+    - 1085
+  label: 沙門崇惠登刀梯歌
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6r0155_T_006-mulu-6
+    span:
+    - body
+    - 1382
+    - 1382
+  label: 沙門崇惠登刀梯頌
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6r0155_T_006-mulu-7
+    span:
+    - body
+    - 1709
+    - 1709
+  label: 沙門崇惠謝賜紫衣表
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6r0155_T_006-mulu-8
+    span:
+    - body
+    - 1976
+    - 1976
+  label: 恩命拂拭京城諸寺塔像訖進表
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6r0155_T_006-mulu-9
+    span:
+    - body
+    - 2402
+    - 2402
+  label: 進興善寺文殊閣內外功德數表
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6r0155_T_006-mulu-10
+    span:
+    - body
+    - 2701
+    - 2701
+  label: 恩賜綿綵縑緗共四十匹謝表
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6r0155_T_006-mulu-11
+    span:
+    - body
+    - 2970
+    - 2970
+  label: 肅宗恩命三藏弟子惠䏏入內道場念誦制
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6r0155_T_006-mulu-12
+    span:
+    - body
+    - 3048
+    - 3048
+  label: 恩旨令三藏弟子僧惠曉為　國念誦制
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6r0155_T_006-mulu-13
+    span:
+    - body
+    - 3139
+    - 3139
+  label: 代宗恩旨命西明寺給粥飯往來騎乘制
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6r0155_T_006-mulu-14
+    span:
+    - body
+    - 3210
+    - 3210
+  label: 往五臺山修功德辭　聖恩表
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6r0155_T_006-mulu-15
+    span:
+    - body
+    - 3503
+    - 3503
+  label: 恩命令與惠朗同修功德謝表
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6r0155_T_006-mulu-16
+    span:
+    - body
+    - 3829
+    - 3829
+  label: 元日獻甄叔迦寶表
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6r0155_T_006-mulu-17
+    span:
+    - body
+    - 4105
+    - 4105
+  label: 八月十三日賜　手詔
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6r0155_T_006-mulu-18
+    span:
+    - body
+    - 4166
+    - 4166
+  label: 進五臺山修護摩功德表
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6r0155_T_006-mulu-19
+    span:
+    - body
+    - 4416
+    - 4416
+  label: 勅大興善寺都維那法高依前句當制
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6r0155_T_006-mulu-20
+    span:
+    - body
+    - 4550
+    - 4550
+  label: 謝　恩命令有則法師於興善寺開講表
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6r0155_T_006-mulu-21
+    span:
+    - body
+    - 4859
+    - 4859
+  label: 謝制補沙門惠朗充興善寺上座表
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6r0155_T_006-mulu-22
+    span:
+    - body
+    - 5092
+    - 5092
+  label: 唐贈司空大辨正廣智不空三藏和上碑
+  type: mulu
+  level: 1
+hash: sha256:e9b008235659a49ab5299b37072ff34a8fc43725610759d41b565ab89bab4a13
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
