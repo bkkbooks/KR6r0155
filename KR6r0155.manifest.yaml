@@ -40,19 +40,20 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6r0155_000.yaml, hash: 'sha256:50d1586170bf38d3f87abde802e864f72614a1015f8fd297b0d8f23e0f6f5be5'}
-  - {seq: 1, filename: KR6r0155_001.yaml, hash: 'sha256:e98d6efcb7e1924ffdc64dd6812eba136294808e7fba4a3f7aa112a96635723f'}
-  - {seq: 2, filename: KR6r0155_002.yaml, hash: 'sha256:6ee030b38da33bfb170fa1d69abf8d110af0e6a9e33602112260523443695f36'}
-  - {seq: 3, filename: KR6r0155_003.yaml, hash: 'sha256:8608954716c6ae5e534b98eccac054f91efb47d92906eb9e78d36a50e736a495'}
-  - {seq: 4, filename: KR6r0155_004.yaml, hash: 'sha256:112dbd3a3333312ddb6a33aa4dc53eb255d718464910c48bcce31b4a88a0e6d0'}
-  - {seq: 5, filename: KR6r0155_005.yaml, hash: 'sha256:665cd06c9b2246c4d6ffa203d426b600f559b9f845190c99ba6a1180f103ad27'}
-  - {seq: 6, filename: KR6r0155_006.yaml, hash: 'sha256:21a76f587397ed38db38914c606eb7598266ccf37f5e2c007f088cde9df81c4a'}
+  - {seq: 1, filename: KR6r0155_001.yaml, hash: 'sha256:1abedcdda4e992c29306899b043e315a622cfdbaca853f7cd946de3dcee65161'}
+  - {seq: 2, filename: KR6r0155_002.yaml, hash: 'sha256:dfc66d6741cdc8e36e3d7530d5e4768914315eb876f06e41924a09c93a38ce84'}
+  - {seq: 3, filename: KR6r0155_003.yaml, hash: 'sha256:8009c7a8250717ea38150597667c52be81d9e5ac57db9a20547a40f96e726278'}
+  - {seq: 4, filename: KR6r0155_004.yaml, hash: 'sha256:b580eb53d88306881680b941f17384f91a1bfbba47c5e08bc9552c209544a6a6'}
+  - {seq: 5, filename: KR6r0155_005.yaml, hash: 'sha256:c6c77eb1b3045f38a96646634006ddfe6d51d13c0293a811d8529e92e984a110'}
+  - {seq: 6, filename: KR6r0155_006.yaml, hash: 'sha256:0c6ecfc39b513520b8f111f9568d19fba4538bf5f6aaa2c6623e5ba16e6edc49'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR6r0155_001.markers.yaml, hash: 'sha256:337f9e83ddd3ef1af3b53a1b420b415d57d2d1473938aaa1baa984281cb6cd32'}
-  - {seq: 2, role: markers, filename: assets/KR6r0155_002.markers.yaml, hash: 'sha256:984665a4cf0a072b5e4508c48014be7ae94990db2ee43d7360efece5cac6cfd7'}
-  - {seq: 3, role: markers, filename: assets/KR6r0155_003.markers.yaml, hash: 'sha256:53b7a195bbebb6e4d4dabed0035f5c8aef6280aaf5ada3554486a641c7b303ed'}
-  - {seq: 4, role: markers, filename: assets/KR6r0155_004.markers.yaml, hash: 'sha256:6afd20313bf4cf807ca6446bf93e522a3e6628a85688e45ba52595fd1c38f4ec'}
-  - {seq: 5, role: markers, filename: assets/KR6r0155_005.markers.yaml, hash: 'sha256:b9e62334395deca98a47ef4a955f0f0ddf6ec71702bb6ffdb640eca837199862'}
-  - {seq: 6, role: markers, filename: assets/KR6r0155_006.markers.yaml, hash: 'sha256:388ce30340c92a82dc59420777481b59e3f47181957e6d71add1fa7e4c43913e'}
+  - {seq: 0, role: markers, filename: assets/KR6r0155_000.markers.yaml, hash: 'sha256:d016cb605d548241e247309da0d93d42aba564305a37400ecd294618b7c9c395'}
+  - {seq: 1, role: markers, filename: assets/KR6r0155_001.markers.yaml, hash: 'sha256:6b0d1f57c637eef4496178bf565670adff509c5e49f7f923e13d3a719028d5d7'}
+  - {seq: 2, role: markers, filename: assets/KR6r0155_002.markers.yaml, hash: 'sha256:13373f73f08a1543df372de0d5e40eefcd549aba6a177fb21664c14cf9fc088d'}
+  - {seq: 3, role: markers, filename: assets/KR6r0155_003.markers.yaml, hash: 'sha256:b206a684bb443e1c0bd52c71bd7155a3cfe7ca832836da73318c9f681d18c0ec'}
+  - {seq: 4, role: markers, filename: assets/KR6r0155_004.markers.yaml, hash: 'sha256:62b07c3fb1cb842c64b2286a1ceabed043644f5a4e24131b938b931302866d91'}
+  - {seq: 5, role: markers, filename: assets/KR6r0155_005.markers.yaml, hash: 'sha256:ad282332b3a039c2fc2ac19b86790f810fee6a91b4e46b658275803f24dd60c4'}
+  - {seq: 6, role: markers, filename: assets/KR6r0155_006.markers.yaml, hash: 'sha256:c6d31da6c95d74aec466cb25d30feb658a6096f3140a5f4c567dad938d2caf13'}
 table_of_contents:
 - ref:
     seq: 1
@@ -1466,7 +1467,4 @@ table_of_contents:
   label: 唐贈司空大辨正廣智不空三藏和上碑
   type: mulu
   level: 1
-hash: sha256:e9b008235659a49ab5299b37072ff34a8fc43725610759d41b565ab89bab4a13
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:69fe2b375d58a6f761c62d49364dcf832aa74cb52d44af9c5676b86f05d6b155
